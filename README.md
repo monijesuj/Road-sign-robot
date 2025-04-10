@@ -5,7 +5,7 @@ A robot controlled by a road sign classification algorithm. This repository impl
 ## Project Files
 
 - **pi.py**: Main script for operating the robot.
-- **pi2.py**: Secondary script for testing or alternative functionalities.
+- **pi2.py**: Secondary script for testing 
 - **SignRec-CNN.h5**: Pre-trained CNN model used for road sign recognition.
 - **README.md**: This documentation file.
 
