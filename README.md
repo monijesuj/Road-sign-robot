@@ -35,10 +35,3 @@ Ensure that the [SignRec-CNN.h5](./SignRec-CNN.h5) model file is present in the 
 
 You might need to modify parameters in [pi.py](./pi.py) or [pi2.py](./pi2.py) to match your hardware setup and operational requirements.
 
-## License
-
-Add your project license information here.
-
-## Acknowledgements
-
-Recognize any contributors, inspirations, or libraries that made this project possible.
